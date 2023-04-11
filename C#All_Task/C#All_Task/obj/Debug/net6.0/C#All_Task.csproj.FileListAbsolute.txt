@@ -1,0 +1,15 @@
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\obj\Debug\net6.0\C#All_Task.csproj.AssemblyReference.cache
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\obj\Debug\net6.0\C#All_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\obj\Debug\net6.0\C#All_Task.AssemblyInfoInputs.cache
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\obj\Debug\net6.0\C#All_Task.AssemblyInfo.cs
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\obj\Debug\net6.0\C#All_Task.csproj.CoreCompileInputs.cache
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\bin\Debug\net6.0\C#All_Task.exe
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\bin\Debug\net6.0\C#All_Task.deps.json
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\bin\Debug\net6.0\C#All_Task.runtimeconfig.json
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\bin\Debug\net6.0\C#All_Task.dll
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\bin\Debug\net6.0\C#All_Task.pdb
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\obj\Debug\net6.0\C#All_Task.dll
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\obj\Debug\net6.0\refint\C#All_Task.dll
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\obj\Debug\net6.0\C#All_Task.pdb
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\obj\Debug\net6.0\C#All_Task.genruntimeconfig.cache
+C:\Users\bs780\Desktop\Temp\C#All_Task\C#All_Task\obj\Debug\net6.0\ref\C#All_Task.dll
